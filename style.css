@@ -1,7 +1,8 @@
 body {
   background-color:      #7cace2 ;
   font-family: Helvetica, Arial, sans-serif;
-  
+  margin: 5% 5%;
+  background-image: url("https://landing.adobe.com/dam/2017/images/374113-edu-resume-template.marquee-background-image.1440x888.jpg");
 }
 
 .exp-header {
@@ -21,3 +22,4 @@ body {
 img {
   width: 100%
 }
+
