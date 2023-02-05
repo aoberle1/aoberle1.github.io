@@ -17,10 +17,12 @@ body {
 
 .education {
   border-bottom: 1px solid black;
+  background-color: black;
+  color: white;
 }
 
 img {
   float: right;
-  height: 100px;
+  height: 100%;
 }
 
