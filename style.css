@@ -1,7 +1,7 @@
 body {
-  background-color:  lightsalmon;
+  background-color:      #7cace2 ;
   font-family: Helvetica, Arial, sans-serif;
-  margin: 5% 5%;
+  
 }
 
 .exp-header {
@@ -12,4 +12,12 @@ body {
 .edu-header {
   text-transform: uppercase;
   border-top: 1px solid black;
+}
+
+.education {
+  border-bottom: 1px solid black;
+}
+
+img {
+  width: 100%
 }
